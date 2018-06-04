@@ -7,6 +7,8 @@ devs e outras comunidades possam se inspirar para construir e divulgar soluçõe
 # Pré requisitos
 - Node 6 ou superior
 - NPM 5.6 ou superior
+- CLI React Native 2.0.1 - https://facebook.github.io/react-native/docs/getting-started.html
+
 
 # Instalção e execução
 
