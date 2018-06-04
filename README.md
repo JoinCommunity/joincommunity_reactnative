@@ -1,9 +1,20 @@
-# react-native-template
+# Join Community - App React Native
+```
+Este app foi construido para aprensentação no Evento Join Community 2018 e está disponível para que outros
+devs e outras comunidades possam se inspirar para construir e divulgar soluções para a comunidade.
+```
 
-Execute o comando react-native init NomeDoProjeto --template projetotemplate
+# Pré requisitos
+- Node 6 ou superior
+- NPM 5.6 ou superior
 
-Este projeto contempla a configuração do React Native utilizando Redux com a Store configurada juntamente com a lib Router-Flux com o Drawer configurado.
+# Instalção e execução
 
-Basta iniciar seu projeto com este template e se divertir.
+- npm install 
+- react-native link
+- react-native run-android ou react-native run-ios
 
-Este template foi criado com o intuito de auxiliar equipes de desenvolvimento que disputam eventos como Startup Weekend e Hackathons!!!# joincommunity_reactnative
+# Observações
+- O arquivo localizado em ./src/helpers/consts contém um export com uma BaseURL apontada para api publicada para testes do app. Vide https://github.com/pedrogyn/joincommunity_api
+
+
